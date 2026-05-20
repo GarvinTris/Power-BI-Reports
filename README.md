@@ -8,4 +8,4 @@ Here's How can you view the Report, following these step:
 4. Go to File, then Open, and Select the downloaded .pbix file
 5. View and interact with the report
 
-IF you already have a Power BI Dekstop, just skip these step.
+If you already have a Power BI Dekstop, just skip these step.
